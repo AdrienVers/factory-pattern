@@ -1,0 +1,155 @@
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-weapon-character\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-w-c-p-i-s\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-reflexion\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - changement shoot et throw\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\AdrienVERSCHAERE\Desktop\Plateforme\3 - Tests et bonnes pratiques\Design Pattern\factory-logic - throw\obj\Debug\net7.0\ref\Design Pattern.dll
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\bin\Debug\net7.0\Design Pattern.exe
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\bin\Debug\net7.0\Design Pattern.deps.json
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\bin\Debug\net7.0\Design Pattern.runtimeconfig.json
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\bin\Debug\net7.0\Design Pattern.dll
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\bin\Debug\net7.0\Design Pattern.pdb
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\Design Pattern.csproj.AssemblyReference.cache
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\Design Pattern.AssemblyInfo.cs
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\Design Pattern.dll
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\refint\Design Pattern.dll
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\Design Pattern.pdb
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\Design Pattern.genruntimeconfig.cache
+C:\Users\Adrie\Desktop\GIT\NET\factory-logic\obj\Debug\net7.0\ref\Design Pattern.dll
